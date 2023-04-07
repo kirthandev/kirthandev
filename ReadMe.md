@@ -1,4 +1,4 @@
-![logo](https://github.com/kirthandev/kirthandev/blob/main/Git%20hub%20Banner.png)
+![logo](https://github.com/kirthandev/kirthandev/blob/main/Git_Hub_Banner.jpg)
 # Hi👋, I'm Kirthan Hegde 
 
 ## 💫 About Me:
