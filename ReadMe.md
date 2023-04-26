@@ -1,4 +1,4 @@
-![logo](https://github.com/kirthandev/kirthandev/blob/main/Git_Hub_Banner.jpg)
+![logo](https://github.com/kirthandev/kirthandev/blob/main/Github_banner-2.jpg)
 
 ## 💫 About Me:
 🔭 I’m currently working on MERN Stack <br>🌱 I’m currently learning Web & Android Dev (Flutter & Dart, Typescript, Tailwind)<br>💬 Ask me about : Nutrition, Fitness and Lifestyle (As I'm Learning dev so)<br>⚡ Fact : I'm Internationally Certified Personal Trainer with 8 Years of experience. Coached 200+ People to change their lives 
